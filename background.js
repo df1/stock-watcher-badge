@@ -1,0 +1,1 @@
+chrome.browserAction.setBadgeText({text:'$0.00'});

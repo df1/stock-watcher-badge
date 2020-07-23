@@ -1,0 +1,13 @@
+{
+    "name": "Stock Watcher Badge",
+    "version": "1.0",
+    "description": "The simple badge that shows the stock price you'd like to watch closely.",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
